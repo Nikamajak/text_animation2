@@ -32,7 +32,6 @@
    -webkit-background-clip: text;
    color: transparent;
 
-Анимация текста задается этой командой
 
    transition: all 4s ease-in-out;
 }
